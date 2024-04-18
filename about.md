@@ -3,7 +3,6 @@ layout: page
 title: Who Are We?
 permalink: /about/
 ---
-
 *People of NITA* is a community for the students of [NIT Agartala](https://en.wikipedia.org/wiki/National_Institute_of_Technology_Agartala). <br> <br>
 Our main aim with this project is to document the uncaptured stories of the people that set their feet in this college. <br> <br>
 We believe that everyone has a story to tell. We want to build a home for these stories and hopefully build a sense of belonging through this community.<br> <br>
@@ -17,7 +16,6 @@ We believe that everyone has a story to tell. We want to build a home for these 
 [🌻 Harshita Shankar](https://www.instagram.com/sunshineandcandyfloss/) <br>
 [🍊 Jigyasu](https://www.instagram.com/nihilistkiteflyer/)
 
-<br>
-<br>
+![An image of the basketball court at NIT Agartala with people in it](https://i.ibb.co/h70d5jQ/Whats-App-Image-2024-04-19-at-2-11-02-AM.jpg)
 <br>
 <br>
