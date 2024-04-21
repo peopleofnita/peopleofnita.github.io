@@ -14,7 +14,7 @@ We believe that everyone has a story to tell. We want to build a home for these 
 
 [⚡ Chaitanya Raj](https://www.instagram.com/chaitanyaraj__/) (Project Co-ordinator)<br>
 [🌻 Harshita Shankar](https://www.instagram.com/sunshineandcandyfloss/) (Content Wizard)<br>
-[🍊 Jigyasu](https://www.instagram.com/nihilistkiteflyer/) (Tech Guy)
+[🍊 Jigyasu](https://www.instagram.com/symphonynumber25/) (Tech Guy)
 
 ![An image of the basketball court at NIT Agartala with people in it](https://i.ibb.co/h70d5jQ/Whats-App-Image-2024-04-19-at-2-11-02-AM.jpg)
 <br>
