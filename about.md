@@ -12,9 +12,9 @@ We believe that everyone has a story to tell. We want to build a home for these 
 
 # The Team:
 
-[⚡ Chaitanya Raj](https://www.instagram.com/chaitanyaraj__/) <br>
-[🌻 Harshita Shankar](https://www.instagram.com/sunshineandcandyfloss/) <br>
-[🍊 Jigyasu](https://www.instagram.com/nihilistkiteflyer/)
+[⚡ Chaitanya Raj (Project Co-ordinator + The OG)](https://www.instagram.com/chaitanyaraj__/) <br>
+[🌻 Harshita Shankar (Content Wizard)](https://www.instagram.com/sunshineandcandyfloss/) <br>
+[🍊 Jigyasu (Tech Guy)](https://www.instagram.com/nihilistkiteflyer/)
 
 ![An image of the basketball court at NIT Agartala with people in it](https://i.ibb.co/h70d5jQ/Whats-App-Image-2024-04-19-at-2-11-02-AM.jpg)
 <br>
