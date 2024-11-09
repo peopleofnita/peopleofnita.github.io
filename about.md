@@ -10,13 +10,14 @@ We believe that everyone has a story to tell. We want to build a home for these 
 
 [Instagram](https://www.instagram.com/peopleofnita/)
 
-# The Team:
+## Leads:
 
 [⚡ Chaitanya Raj](https://www.instagram.com/chaitanyaraj__/) (Project Co-ordinator)<br>
 [🌻 Harshita Shankar](https://www.instagram.com/sunshineandcandyfloss/) (Content Lead)<br>
-[🍊 Jigyasu](https://jgyasu.github.io) (Tech Guy)
+[🍊 Jigyasu](https://jgyasu.github.io) (Tech Lead)
 
 ## Content:
+
 Harsh Srivastava<br>
 Manya Agarwal
 
