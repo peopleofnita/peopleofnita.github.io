@@ -16,7 +16,7 @@ We believe that everyone has a story to tell. We want to build a home for these 
 [🌻 Harshita Shankar](https://www.instagram.com/sunshineandcandyfloss/) (Content Lead)<br>
 [🍊 Jigyasu](https://jgyasu.github.io) (Tech Lead)
 
-## Content:
+## Content Writing Team:
 
 Harsh Srivastava<br>
 Manya Agarwal
