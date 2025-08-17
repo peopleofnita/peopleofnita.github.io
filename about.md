@@ -23,7 +23,7 @@ We believe that everyone has a story to tell. We want to build a home for these 
 
 ## Tech Team
 
-[🍊 Jigyasu](https://jgyasu.github.io) (Tech Lead)
+[🍊 Jigyasu](https://jgyasu.github.io) (Tech Lead)<br>
 Sreejan Das
 
 ![An image of the basketball court at NIT Agartala with people in it](https://i.ibb.co/h70d5jQ/Whats-App-Image-2024-04-19-at-2-11-02-AM.jpg)
