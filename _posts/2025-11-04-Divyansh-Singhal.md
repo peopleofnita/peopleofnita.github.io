@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "From Dreams to Destiny (#18 Divyansh Singhal, Mathematics and Computing batch of 2026)"
+title: "A Journey of Acceptance (#18 Divyansh Singhal, Mathematics and Computing, batch of 2026)"
 ---
 
-From Dreams to Destiny: A Journey Through NIT Agartala
 
 I loved Mathematics, though I still had no concrete goal of cracking JEE.
 
