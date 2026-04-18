@@ -18,13 +18,11 @@ We believe that everyone has a story to tell. We want to build a home for these 
 
 ## Content Writing Team:
 
-[🌻 Harshita Shankar](https://www.instagram.com/sunshineandcandyfloss/) (Content Lead)<br>
 [❄️ Harsh Srivastava](https://www.linkedin.com/in/harshh-srivastava?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)<br>
 
 ## Tech Team
 
 [🍊 Jigyasu](https://jgyasu.github.io) (Tech Lead)<br>
-Sreejan Das
 
 ![An image of the basketball court at NIT Agartala with people in it](https://i.ibb.co/h70d5jQ/Whats-App-Image-2024-04-19-at-2-11-02-AM.jpg)
 <br>
